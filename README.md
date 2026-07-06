@@ -12,13 +12,7 @@ Currently pursuing my journey in **Data Engineering**, **Business Analytics**, a
 
 - 🎓 B.E Graduate
 - 📚 PGCP in Big Data Analytics
-- 🌱 Currently learning
-  - Apache Spark
-  - Databricks
-  - Delta Lake
-  - Azure & AWS Cloud
-  - Advanced SQL
-
+  
 ---
 
 ## 🛠️ Tech Stack
