@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Rachit Kumar Patel
 
-<!--
-**rachitkumar-eng/rachitkumar-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data Engineer | Analytics Enthusiast | Cloud Learner
 
-Here are some ideas to get you started:
+I'm passionate about building scalable data solutions that transform raw data into meaningful business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing my journey in **Data Engineering**, **Business Analytics**, and **Cloud Technologies**, while continuously building real-world projects using modern data tools.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.E Graduate
+- 📚 PGCP in Big Data Analytics
+- 🌱 Currently learning
+  - Apache Spark
+  - Databricks
+  - Delta Lake
+  - Azure & AWS Cloud
+  - Advanced SQL
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Data Engineering
+- Apache Spark
+- PySpark
+- Databricks
+- Delta Lake
+- ETL Pipelines
+
+### Databases
+- MySQL
+- MongoDB
+
+### Cloud
+- AWS
+- Microsoft Azure
+
+### Data Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Tableau
+- Power BI
+- Excel
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+
+## 📚 Currently Learning
+
+- Data Engineering Best Practices
+- Apache Spark Optimization
+- Cloud Data Platforms
+- Data Warehousing
+- Lakehouse Architecture
+- CI/CD for Data Pipelines
+
+---
+
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rachit-kumar-patel/
+- 📧 Email: patelrachit212@gmail.com
+- 🌐 Portfolio: Coming Soon
+
+---
+
+### 💬 Motto
+
+> "Strive Harder Soar Higher "
+
+⭐ Thanks for visiting my profile!
