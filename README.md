@@ -2,11 +2,7 @@
 
 ### Data Engineering · Analytics · Cloud · Applied AI
 
-I build data and AI systems that turn raw, unstructured, and high-volume data into reliable information, analytical insights, and usable applications.
-
 My work focuses on **Data Engineering, Cloud Data Platforms, Analytics, and Applied AI**, with hands-on experience across data pipelines, distributed processing, data modeling, business intelligence, and retrieval-based AI systems.
-
-Currently pursuing a **Post Graduate Certificate in Big Data Analytics (PGCP-BDA)** and building projects that combine engineering fundamentals with practical business use cases.
 
 ---
 
@@ -74,26 +70,6 @@ Currently pursuing a **Post Graduate Certificate in Big Data Analytics (PGCP-BDA
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
-
----
-
-## What I Build
-
-### Data Engineering
-
-Designing ETL pipelines, transforming large datasets with distributed processing, and creating structured data models for analytics and downstream applications.
-
-### Cloud Data Platforms
-
-Working with cloud storage, compute, distributed processing, and modern data architecture patterns using AWS and related technologies.
-
-### Analytics
-
-Building analytical datasets, dashboards, and reporting solutions that turn operational data into actionable insights.
-
-### Applied AI
-
-Building practical AI systems that combine retrieval, NLP, embeddings, and generative models with real source data rather than relying solely on model-generated knowledge.
 
 ---
 
