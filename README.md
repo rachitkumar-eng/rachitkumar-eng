@@ -5,18 +5,6 @@
 My work focuses on **Data Engineering, Cloud Data Platforms, Analytics, and Applied AI**, with hands-on experience across data pipelines, distributed processing, data modeling, business intelligence, and retrieval-based AI systems.
 
 ---
-
-## About
-
-* B.E. Graduate
-* PGCP in Big Data Analytics
-* Former Graduate Trainee Analyst at HCLTech
-* Experience working with enterprise service data, reporting, and analytics
-* Building projects across Data Engineering, Cloud, Analytics, and Applied AI
-* Interested in solving practical problems through scalable data systems
-
----
-
 ## Technical Stack
 
 ### Languages
